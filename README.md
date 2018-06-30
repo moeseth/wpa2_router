@@ -2,7 +2,7 @@
 
 1. Buy a router with 4MB or 8MB RAM
 2. Download firmware from https://downloads.openwrt.org
-3. Install `wpa_supplicant`
+3. Install `wpa_supplicant` http://w1.fi/wpa_supplicant/
 4. Set up `Wireless` from Luci
 
 --
